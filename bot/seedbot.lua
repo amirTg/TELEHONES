@@ -559,7 +559,7 @@ Unlock group settings
 *rtl: Delete msg if Right To Left Char. is in name*
 *strict: disable strict settings enforcement (violating user will not be kicked)*
 
-!mute [all|audio|gifs|photo|video|service]
+!خفه [all|audio|gifs|photo|video|service]
 mute group message types
 *A "muted" message type is auto-deleted if posted
 
@@ -700,3 +700,4 @@ our_id = 0
 now = os.time()
 math.randomseed(now)
 started = false
+data/moderation.json
