@@ -262,7 +262,7 @@ http://teleseed.seedteam.org/
     help_text_realm = [[
 Realm Commands:
 
-!creategroup [Name]
+!ساخت سوپر گروه [Name]
 Create a group
 
 !createrealm [Name]
@@ -348,7 +348,7 @@ Commands list :
 !kick [username|id]
 You can also do it by reply
 
-!ban [ username|id]
+!ban,سیکتر [ username|id]
 You can also do it by reply
 
 !unban [id]
